@@ -6,7 +6,7 @@ A responsive and interactive landing page for a fictional audio technology brand
 🔗 [Live Preview](https://janeshavrukova.github.io/bose-landing-page/#)
 
 ## 🖼 Design Reference
-The design follows a [provided mockup](https://janeshavrukova.github.io/bose-landing-page/#), focusing on clean layout, accessibility, and responsiveness across devices.
+The design follows a [provided mockup](https://www.figma.com/design/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0-1&p=f&t=u8KzZfDN915BPljF-0), focusing on clean layout, accessibility, and responsiveness across devices.
 
 ## 💻 Technologies Used
 - **HTML5**: Structured content and semantic markup.
