@@ -10,8 +10,8 @@ The design follows a [provided mockup](https://www.figma.com/design/OMjQNb3hg1LK
 
 ## 💻 Technologies Used
 - **HTML5**: Structured content and semantic markup.
-- **CSS3 (SCSS)**: Styling with Sass for modular and maintainable styles.
-- **JavaScript (ES6)**: Interactive features such as form validation and smooth scrolling.
+- **CSS3(SCSS)**: Styling with Sass for modular and maintainable styles.
+- **JavaScript**: Interactive features such as form validation and smooth scrolling.
 - **Git & GitHub**: Version control and deployment via GitHub Pages.
 
 ## ✨ Features
